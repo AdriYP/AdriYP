@@ -4,7 +4,7 @@
 <a href="mailto:adrenaline17@mail.ru"><img src="https://camo.githubusercontent.com/768d86ecdee1d5b7f2945f3f0876f021502b5ddbf9b4f3cd324a59fc200b9b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d7265643f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Mail" data-canonical-src="https://img.shields.io/badge/Email-red?logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <h2 align="left">My stack:</h2>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="max-width: 100%;"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="Fastapi" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="max-width: 100%;"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="max-width: 100%;">
+<div><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="max-width: 100%;"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="max-width: 100%;"></div>
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DRF" style="max-width: 100%;">
 <!--
 ## Hi there 👋
